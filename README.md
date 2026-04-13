@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Clayton França
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Clayton França, sou natural da Bahia.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniruy. Sou apaixonado por tecnologia.
 
